@@ -27,6 +27,7 @@ Running it will delete all saved Wi-Fi networks — make sure you know your pass
 ## 🧩 Credits
 Developed by **Rayan**, 2025.  
 Created purely for educational and troubleshooting purposes.
+## 🔥 DOWLOAD
 [DOWNLOAD FOR WINDOWS 10/11](https://github.com/Rayanitoo/WIFI-RESOLVER/raw/main/WIFI%20RESOLVER.exe)
-
+## 🛠️ SUPPORT
 For support, please join our discord server [JOIN SERVER](https://discord.gg/3YtEjgDhXj)
